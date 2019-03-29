@@ -1528,6 +1528,23 @@
     ],
     "timestamp": "Jan/21/2021 13:51"
   },
+  "CF51983229": {
+    "contest_id": 472,
+    "language": "GNU C++17",
+    "path": "codeforces\\472\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Design Tutorial: Learn from Math",
+    "problem_url": "https://codeforces.com/contest/472/problem/A",
+    "submission_id": "CF51983229",
+    "submission_url": "https://codeforces.com/contest/472/submission/51983229",
+    "tags": [
+      "math",
+      "number theory",
+      "*800"
+    ],
+    "timestamp": "Mar/29/2019 22:48"
+  },
   "CF57292649": {
     "contest_id": 339,
     "language": "GNU C++17",
