@@ -1528,6 +1528,22 @@
     ],
     "timestamp": "Jan/21/2021 13:51"
   },
+  "CF59084021": {
+    "contest_id": 478,
+    "language": "GNU C++17",
+    "path": "codeforces\\478\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Initial Bet",
+    "problem_url": "https://codeforces.com/contest/478/problem/A",
+    "submission_id": "CF59084021",
+    "submission_url": "https://codeforces.com/contest/478/submission/59084021",
+    "tags": [
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "Aug/19/2019 15:53"
+  },
   "CF59098523": {
     "contest_id": 456,
     "language": "GNU C++17",
