@@ -1528,6 +1528,23 @@
     ],
     "timestamp": "Jan/21/2021 13:51"
   },
+  "CF59078494": {
+    "contest_id": 1146,
+    "language": "GNU C++17",
+    "path": "codeforces\\1146\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Love \"A\"",
+    "problem_url": "https://codeforces.com/contest/1146/problem/A",
+    "submission_id": "CF59078494",
+    "submission_url": "https://codeforces.com/contest/1146/submission/59078494",
+    "tags": [
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Aug/19/2019 13:38"
+  },
   "CF59080399": {
     "contest_id": 675,
     "language": "GNU C++17",
