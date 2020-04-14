@@ -1528,6 +1528,25 @@
     ],
     "timestamp": "Jan/21/2021 13:51"
   },
+  "CF76693256": {
+    "contest_id": 1333,
+    "language": "GNU C++17",
+    "path": "codeforces\\1333\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Eugene and an array",
+    "problem_url": "https://codeforces.com/contest/1333/problem/C",
+    "submission_id": "CF76693256",
+    "submission_url": "https://codeforces.com/contest/1333/submission/76693256",
+    "tags": [
+      "binary search",
+      "data structures",
+      "implementation",
+      "two pointers",
+      "*1700"
+    ],
+    "timestamp": "Apr/14/2020 18:18"
+  },
   "CF76804916": {
     "contest_id": 1339,
     "language": "GNU C++17",
