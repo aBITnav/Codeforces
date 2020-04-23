@@ -1,0 +1,45 @@
+#include<bits/stdc++.h>
+using namespace std;
+#define int long long
+#define rep(i,n) for(i=0;i<n;i++)
+#define pb push_back
+#define all(a) a.begin(),a.end()
+#define fi first
+#define se second
+int M=1e9+7;
+int mm(int x,int y){x%=M,y%=M;return (x*y)%M;}//Modular Multiply
+int po(int x,int y){ if(!y)return 1;int a=po(x,y/2)%M;if(y%2)return mm(a,mm(a,x));return mm(a,a);}//(x**y)%M
+
+signed main(){
+ios_base::sync_with_stdio(0);cin.tie(0);cout.tie(0);
+	
+	int t;
+	cin>>t;
+	while(t--){
+		int n,k,sum=0,mx=0,mi=0;
+		cin>>n>>k;
+		int a[n],v[n]={};
+		for(int i=0;i<n;i++) cin>>a[i];
+		for(int i=1;i<n-1;i++) if(a[i]>a[i-1] and a[i]>a[i+1]) v[i]=1;
+		
+		//k-=2;
+		for(int i=n-2;i>=n-k+1;i--) sum+=v[i];
+		mx=sum;mi=n-k+1;
+		for(int i=n-k;i>0;i--){
+			sum-=v[i+k-2];
+			sum+=v[i];
+			if(sum>=mx){
+				mx=sum;
+				mi=i;
+			}
+		}
+		//if(mi!=1) mi++;
+			cout<<mx+1<<" "<<mi<<endl;
+			
+		 
+
+	}
+	return 0;
+}
+
+
