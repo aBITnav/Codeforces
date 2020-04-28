@@ -1528,6 +1528,22 @@
     ],
     "timestamp": "Jan/21/2021 13:51"
   },
+  "CF78371507": {
+    "contest_id": 447,
+    "language": "GNU C++11",
+    "path": "codeforces\\447\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "DZY Loves Sequences",
+    "problem_url": "https://codeforces.com/contest/447/problem/C",
+    "submission_id": "CF78371507",
+    "submission_url": "https://codeforces.com/contest/447/submission/78371507",
+    "tags": [
+      "dp",
+      "*1600"
+    ],
+    "timestamp": "Apr/28/2020 16:12"
+  },
   "CF78373773": {
     "contest_id": 977,
     "language": "GNU C++11",
