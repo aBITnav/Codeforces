@@ -1528,6 +1528,24 @@
     ],
     "timestamp": "Jan/21/2021 13:51"
   },
+  "CF79598967": {
+    "contest_id": 1352,
+    "language": "GNU C++11",
+    "path": "codeforces\\1352\\F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Binary String Reconstruction",
+    "problem_url": "https://codeforces.com/contest/1352/problem/F",
+    "submission_id": "CF79598967",
+    "submission_url": "https://codeforces.com/contest/1352/submission/79598967",
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "math",
+      "*1500"
+    ],
+    "timestamp": "May/10/2020 03:00"
+  },
   "CF79602504": {
     "contest_id": 1352,
     "language": "GNU C++11",
