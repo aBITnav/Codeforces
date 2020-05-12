@@ -1528,6 +1528,23 @@
     ],
     "timestamp": "Jan/21/2021 13:51"
   },
+  "CF79923325": {
+    "contest_id": 1351,
+    "language": "GNU C++14",
+    "path": "codeforces\\1351\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Skier",
+    "problem_url": "https://codeforces.com/contest/1351/problem/C",
+    "submission_id": "CF79923325",
+    "submission_url": "https://codeforces.com/contest/1351/submission/79923325",
+    "tags": [
+      "data structures",
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "May/13/2020 02:24"
+  },
   "CF80090522": {
     "contest_id": 1353,
     "language": "GNU C++14",
