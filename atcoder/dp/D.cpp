@@ -19,7 +19,7 @@ ios_base::sync_with_stdio(0);cin.tie(0);cout.tie(0);
 	for(int i=0;i<n;i++)
 		for(int j=s;j>=w[i];j--) 
 			dp[j]=max(dp[j-1],dp[j-w[i]]+v[i]);
-	cout<<dp[s];
+	//cout<<dp[s];
 	for(int i:dp) mx=max(mx,i);
-	//cout<<mx;
+	cout<<mx;
 }
