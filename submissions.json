@@ -1528,6 +1528,24 @@
     ],
     "timestamp": "Jan/21/2021 13:51"
   },
+  "CF81381649": {
+    "contest_id": 1360,
+    "language": "GNU C++14",
+    "path": "codeforces\\1360\\G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "A/B Matrix",
+    "problem_url": "https://codeforces.com/contest/1360/problem/G",
+    "submission_id": "CF81381649",
+    "submission_url": "https://codeforces.com/contest/1360/submission/81381649",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "*1900"
+    ],
+    "timestamp": "May/25/2020 17:50"
+  },
   "CF81490090": {
     "contest_id": 1358,
     "language": "GNU C++14",
