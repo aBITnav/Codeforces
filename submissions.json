@@ -1528,6 +1528,23 @@
     ],
     "timestamp": "Jan/21/2021 13:51"
   },
+  "CF81502335": {
+    "contest_id": 1358,
+    "language": "GNU C++14",
+    "path": "codeforces\\1358\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Maria Breaks the Self-isolation",
+    "problem_url": "https://codeforces.com/contest/1358/problem/B",
+    "submission_id": "CF81502335",
+    "submission_url": "https://codeforces.com/contest/1358/submission/81502335",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*1000"
+    ],
+    "timestamp": "May/26/2020 20:29"
+  },
   "CF81521375": {
     "contest_id": 1358,
     "language": "GNU C++14",
