@@ -1528,6 +1528,25 @@
     ],
     "timestamp": "Jan/21/2021 13:51"
   },
+  "CF82279075": {
+    "contest_id": 782,
+    "language": "GNU C++14",
+    "path": "codeforces\\782\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Andryusha and Colored Balloons",
+    "problem_url": "https://codeforces.com/contest/782/problem/C",
+    "submission_id": "CF82279075",
+    "submission_url": "https://codeforces.com/contest/782/submission/82279075",
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "greedy",
+      "trees",
+      "*1600"
+    ],
+    "timestamp": "Jun/02/2020 12:34"
+  },
   "CF82283258": {
     "contest_id": 218,
     "language": "GNU C++14",
