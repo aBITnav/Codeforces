@@ -1,4 +1,20 @@
 {
+  "AC14762210": {
+    "contest_id": "abc172",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc172\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Tsundoku",
+    "problem_url": "https://atcoder.jp/contests/abc172/tasks/abc172_c",
+    "submission_id": "AC14762210",
+    "submission_url": "https://atcoder.jp/contests/abc172/submissions/14762210",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Jun/27/2020 18:28"
+  },
   "AC14973866": {
     "contest_id": "abc173",
     "language": "C++ (GCC 9.2.1)",
