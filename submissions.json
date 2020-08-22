@@ -1,4 +1,20 @@
 {
+  "AC16116433": {
+    "contest_id": "abc176",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc176\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Step",
+    "problem_url": "https://atcoder.jp/contests/abc176/tasks/abc176_c",
+    "submission_id": "AC16116433",
+    "submission_url": "https://atcoder.jp/contests/abc176/submissions/16116433",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Aug/22/2020 17:43"
+  },
   "AC16673460": {
     "contest_id": "abc178",
     "language": "C++ (GCC 9.2.1)",
