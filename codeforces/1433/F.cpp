@@ -24,7 +24,7 @@ int solve(int i,int j,int c,int r) {
 	if(dp[i][j][c][r]!=-1) return dp[i][j][c][r];
 	int ans=max(solve(i+1,0,0,r),solve(i,j+1,c,r));
 	ans=max(ans,a[i][j]+solve(i+1,0,0,(r+a[i][j])%k));
-	//if(c<n/2) 
+	if(c<n/2) 
 		ans=max(ans,a[i][j]+solve(i,j+1,c+1,(r+a[i][j])%k));
 	return dp[i][j][c][r]=ans;
 }
