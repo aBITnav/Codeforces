@@ -1,4 +1,20 @@
 {
+  "AC17979533": {
+    "contest_id": "abc182",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc182\\D.cpp",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Wandering",
+    "problem_url": "https://atcoder.jp/contests/abc182/tasks/abc182_d",
+    "submission_id": "AC17979533",
+    "submission_url": "https://atcoder.jp/contests/abc182/submissions/17979533",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Nov/08/2020 18:23"
+  },
   "AC17994106": {
     "contest_id": "abc182",
     "language": "C++ (GCC 9.2.1)",
