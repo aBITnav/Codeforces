@@ -1,4 +1,21 @@
 {
+  "CF101032681": {
+    "contest_id": 1215,
+    "language": "GNU C++17",
+    "path": "codeforces\\1215\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Swap Letters",
+    "problem_url": "https://codeforces.com/contest/1215/problem/C",
+    "submission_id": "CF101032681",
+    "submission_url": "https://codeforces.com/contest/1215/submission/101032681",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "*1500"
+    ],
+    "timestamp": "Dec/12/2020 19:49"
+  },
   "CF101040767": {
     "contest_id": 611,
     "language": "GNU C++17",
