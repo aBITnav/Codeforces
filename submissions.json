@@ -1,4 +1,23 @@
 {
+  "CF104363455": {
+    "contest_id": 1469,
+    "language": "GNU C++17",
+    "path": "codeforces\\1469\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Building a Fence",
+    "problem_url": "https://codeforces.com/contest/1469/problem/C",
+    "submission_id": "CF104363455",
+    "submission_url": "https://codeforces.com/contest/1469/submission/104363455",
+    "tags": [
+      "dp",
+      "greedy",
+      "implementation",
+      "two pointers",
+      "*1600"
+    ],
+    "timestamp": "Jan/15/2021 01:36"
+  },
   "CF104365583": {
     "contest_id": 1462,
     "language": "GNU C++17",
