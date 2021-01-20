@@ -1,4 +1,21 @@
 {
+  "CF104907120": {
+    "contest_id": 339,
+    "language": "GNU C++17",
+    "path": "codeforces\\339\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Xenia and Bit Operations",
+    "problem_url": "https://codeforces.com/contest/339/problem/D",
+    "submission_id": "CF104907120",
+    "submission_url": "https://codeforces.com/contest/339/submission/104907120",
+    "tags": [
+      "data structures",
+      "trees",
+      "*1700"
+    ],
+    "timestamp": "Jan/20/2021 18:48"
+  },
   "CF104921951": {
     "contest_id": 279,
     "language": "GNU C++17",
