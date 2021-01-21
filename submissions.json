@@ -1,52 +1,4 @@
 {
-  "AC14551355": {
-    "contest_id": "abc171",
-    "language": "C++ (GCC 9.2.1)",
-    "path": "atcoder\\abc171\\D.cpp",
-    "platform": "AtCoder",
-    "problem_index": "D",
-    "problem_name": "Replacing",
-    "problem_url": "https://atcoder.jp/contests/abc171/tasks/abc171_d",
-    "submission_id": "AC14551355",
-    "submission_url": "https://atcoder.jp/contests/abc171/submissions/14551355",
-    "tags": [
-      "AtCoder",
-      "*400"
-    ],
-    "timestamp": "Jun/21/2020 17:48"
-  },
-  "AC14562732": {
-    "contest_id": "abc171",
-    "language": "C++ (GCC 9.2.1)",
-    "path": "atcoder\\abc171\\E.cpp",
-    "platform": "AtCoder",
-    "problem_index": "E",
-    "problem_name": "Red Scarf",
-    "problem_url": "https://atcoder.jp/contests/abc171/tasks/abc171_e",
-    "submission_id": "AC14562732",
-    "submission_url": "https://atcoder.jp/contests/abc171/submissions/14562732",
-    "tags": [
-      "AtCoder",
-      "*500"
-    ],
-    "timestamp": "Jun/21/2020 18:08"
-  },
-  "AC14722436": {
-    "contest_id": "abc172",
-    "language": "C++ (GCC 9.2.1)",
-    "path": "atcoder\\abc172\\A.cpp",
-    "platform": "AtCoder",
-    "problem_index": "A",
-    "problem_name": "Calc",
-    "problem_url": "https://atcoder.jp/contests/abc172/tasks/abc172_a",
-    "submission_id": "AC14722436",
-    "submission_url": "https://atcoder.jp/contests/abc172/submissions/14722436",
-    "tags": [
-      "AtCoder",
-      "*100"
-    ],
-    "timestamp": "Jun/27/2020 17:30"
-  },
   "AC14730471": {
     "contest_id": "abc172",
     "language": "C++ (GCC 9.2.1)",
@@ -2279,6 +2231,25 @@
       "*1800"
     ],
     "timestamp": "Jan/21/2021 13:51"
+  },
+  "CF105005884": {
+    "contest_id": 1437,
+    "language": "GNU C++17",
+    "path": "codeforces\\1437\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Minimal Height Tree",
+    "problem_url": "https://codeforces.com/contest/1437/problem/D",
+    "submission_id": "CF105005884",
+    "submission_url": "https://codeforces.com/contest/1437/submission/105005884",
+    "tags": [
+      "graphs",
+      "greedy",
+      "shortest paths",
+      "trees",
+      "*1600"
+    ],
+    "timestamp": "Jan/21/2021 22:04"
   },
   "CF42791444": {
     "contest_id": 71,
