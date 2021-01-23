@@ -1343,6 +1343,22 @@
     ],
     "timestamp": "Jan/10/2021 20:48"
   },
+  "AC19635040": {
+    "contest_id": "abc189",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc189\\D.cpp",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Logical Expression",
+    "problem_url": "https://atcoder.jp/contests/abc189/tasks/abc189_d",
+    "submission_id": "AC19635040",
+    "submission_url": "https://atcoder.jp/contests/abc189/submissions/19635040",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Jan/23/2021 18:40"
+  },
   "AC19782425": {
     "contest_id": "abc190",
     "language": "C++ (GCC 9.2.1)",
