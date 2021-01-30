@@ -1343,6 +1343,22 @@
     ],
     "timestamp": "Jan/10/2021 20:48"
   },
+  "AC19789276": {
+    "contest_id": "abc190",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc190\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Magic 3",
+    "problem_url": "https://atcoder.jp/contests/abc190/tasks/abc190_b",
+    "submission_id": "AC19789276",
+    "submission_url": "https://atcoder.jp/contests/abc190/submissions/19789276",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jan/30/2021 17:44"
+  },
   "AC19812523": {
     "contest_id": "abc190",
     "language": "C++ (GCC 9.2.1)",
