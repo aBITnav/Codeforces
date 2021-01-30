@@ -1343,6 +1343,22 @@
     ],
     "timestamp": "Jan/10/2021 20:48"
   },
+  "AC19812523": {
+    "contest_id": "abc190",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc190\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Bowls and Dishes",
+    "problem_url": "https://atcoder.jp/contests/abc190/tasks/abc190_c",
+    "submission_id": "AC19812523",
+    "submission_url": "https://atcoder.jp/contests/abc190/submissions/19812523",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Jan/30/2021 18:49"
+  },
   "AC19822168": {
     "contest_id": "abc190",
     "language": "C++ (GCC 9.2.1)",
