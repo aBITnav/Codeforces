@@ -3352,6 +3352,24 @@
     ],
     "timestamp": "Jan/29/2021 21:03"
   },
+  "CF106671157": {
+    "contest_id": 1225,
+    "language": "GNU C++17",
+    "path": "codeforces\\1225\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "p-binary",
+    "problem_url": "https://codeforces.com/contest/1225/problem/C",
+    "submission_id": "CF106671157",
+    "submission_url": "https://codeforces.com/contest/1225/submission/106671157",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "math",
+      "*1600"
+    ],
+    "timestamp": "Feb/06/2021 17:09"
+  },
   "CF106760357": {
     "contest_id": 1480,
     "language": "GNU C++17",
