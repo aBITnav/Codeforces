@@ -3352,6 +3352,24 @@
     ],
     "timestamp": "Jan/29/2021 21:03"
   },
+  "CF107284383": {
+    "contest_id": 1481,
+    "language": "GNU C++17",
+    "path": "codeforces\\1481\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "New Colony",
+    "problem_url": "https://codeforces.com/contest/1481/problem/B",
+    "submission_id": "CF107284383",
+    "submission_url": "https://codeforces.com/contest/1481/submission/107284383",
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "Feb/13/2021 19:36"
+  },
   "CF107287497": {
     "contest_id": 1481,
     "language": "GNU C++17",
