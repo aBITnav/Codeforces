@@ -1,0 +1,64 @@
+#include<bits/stdc++.h>
+using namespace std;
+#define int 		long long
+#define pb 			push_back
+#define all(a) 		a.begin(),a.end()
+#define pii 		pair<int,int>
+#define fi 			first
+#define se 			second
+#define rep(i,k,n) 	for(int i=k;k<n?i<n:i>n;k<n?i+=1:i-=1)
+const int M=1e9+7,N=205001;
+
+int mm(int x,int y){x%=M,y%=M;return (x*y)%M;}//Modular Multiply
+int po(int x,int y){ if(!y)return 1;int a=po(x,y/2)%M;if(y%2)return mm(a,mm(a,x));return mm(a,a);}//(x**y)%M
+
+
+
+void solve() {
+	int n,m;
+	map<int,vector<int>> mp;
+	map<int,int> ind;
+	cin>>n>>m;
+	int a[n],b[n],c[m],ans[m+1]={};
+	rep(i,0,n) 	cin>>a[i];
+	rep(i,0,n) {
+		cin>>b[i];
+		ind[b[i]]=i+1;	
+	}
+	rep(i,0,m) {
+		cin>>c[i];
+		mp[c[i]].pb(i);
+	}
+	rep(i,n-1,-1) if(a[i]!=b[i]) {
+		if(mp[b[i]].empty()){
+			cout<<"NO\n";
+			return;
+		}
+		int p=mp[b[i]].back();
+		mp[b[i]].pop_back();
+		ans[p]=i+1;	
+	}
+	rep(i,m-1,-1)	{
+		if(!ans[i]) ans[i]=ans[i+1];
+		if(!ans[i]) ans[i]=ind[c[i]];
+		if(!ans[i]){
+			cout<<"NO\n";
+			return;
+		}
+	}
+	cout<<"YES\n";
+	for(int i=0;i<m;i++) cout<<ans[i]<<" ";cout<<"\n";
+}
+
+
+signed main(){
+ios_base::sync_with_stdio(0);cin.tie(0);cout.tie(0);
+	int t=1;
+	cin>>t;
+	while(t--) solve();
+	return 0;
+}
+
+
+
+
