@@ -4059,6 +4059,26 @@
     ],
     "timestamp": "Feb/17/2021 03:02"
   },
+  "CF107982855": {
+    "contest_id": 1438,
+    "language": "GNU C++17",
+    "path": "codeforces\\1438\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Engineer Artem",
+    "problem_url": "https://codeforces.com/contest/1438/problem/C",
+    "submission_id": "CF107982855",
+    "submission_url": "https://codeforces.com/contest/1438/submission/107982855",
+    "tags": [
+      "2-sat",
+      "chinese remainder theorem",
+      "constructive algorithms",
+      "fft",
+      "flows",
+      "*2000"
+    ],
+    "timestamp": "Feb/20/2021 03:34"
+  },
   "CF108103191": {
     "contest_id": 584,
     "language": "GNU C++17",
