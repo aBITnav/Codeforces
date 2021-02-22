@@ -4059,6 +4059,23 @@
     ],
     "timestamp": "Feb/17/2021 03:02"
   },
+  "CF108188427": {
+    "contest_id": 2,
+    "language": "GNU C++17",
+    "path": "codeforces\\2\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "The least round way",
+    "problem_url": "https://codeforces.com/contest/2/problem/B",
+    "submission_id": "CF108188427",
+    "submission_url": "https://codeforces.com/contest/2/submission/108188427",
+    "tags": [
+      "dp",
+      "math",
+      "*2000"
+    ],
+    "timestamp": "Feb/22/2021 20:27"
+  },
   "CF108234567": {
     "contest_id": 1335,
     "language": "GNU C++17",
