@@ -14,7 +14,6 @@ int mm(int x,int y){x%=M,y%=M;return (x*y)%M;}//Modular Multiply
 int po(int x,int y){ if(!y)return 1;int a=po(x,y/2)%M;if(y%2)return mm(a,mm(a,x));return mm(a,a);}//(x**y)%M
  
 int ex(int n,int d){
-	if(n==0) return 1e9;
 	int c=0;
 	while(n%d==0){
 		n/=d;
@@ -33,9 +32,12 @@ ios_base::sync_with_stdio(0);cin.tie(0);cout.tie(0);
 	vector<vector<int>> dir5(n,vector<int> (n));
 	rep(i,0,n) rep(j,0,n){
 		cin>>grid[i][j];
-		if(ans==1e9 and grid[i][j]==0){
-			ans=1;
-			pat=string(i,'L')+string(n-1,'R')+string(n-i-1,'L');
+		if(grid[i][j]==0){
+			grid[i][j]=10;
+			if(ans==1e9){
+				ans=1;
+				pat=string(i,'L')+string(n-1,'R')+string(n-i-1,'L');
+			}
 		}
 	}
 	rep(i,0,n) rep(j,0,n) {
