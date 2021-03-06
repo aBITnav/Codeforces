@@ -13,10 +13,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-606 | [D - Minimum Euler Cycle](https://codeforces.com/contest/1334/problem/D) | [GNU C++17](./codeforces/1334/D.cpp) | `constructive algorithms` `graphs` `greedy` `implementation` `*1800` | Mar/11/2021 22:47 | 
-605 | [C - Primitive Primes](https://codeforces.com/contest/1316/problem/C) | [GNU C++17](./codeforces/1316/C.cpp) | `constructive algorithms` `math` `ternary search` `*1800` | Mar/10/2021 21:59 | 
-604 | [A - Writing Code](https://codeforces.com/contest/543/problem/A) | [GNU C++17](./codeforces/543/A.cpp) | `dp` `*1800` | Mar/10/2021 13:07 | 
-603 | [B - Planet Lapituletti](https://codeforces.com/contest/1493/problem/B) | [GNU C++17](./codeforces/1493/B.cpp) | `brute force` `implementation` `*1300` | Mar/06/2021 21:49 | 
+607 | [D - Minimum Euler Cycle](https://codeforces.com/contest/1334/problem/D) | [GNU C++17](./codeforces/1334/D.cpp) | `constructive algorithms` `graphs` `greedy` `implementation` `*1800` | Mar/11/2021 22:47 | 
+606 | [C - Primitive Primes](https://codeforces.com/contest/1316/problem/C) | [GNU C++17](./codeforces/1316/C.cpp) | `constructive algorithms` `math` `ternary search` `*1800` | Mar/10/2021 21:59 | 
+605 | [A - Writing Code](https://codeforces.com/contest/543/problem/A) | [GNU C++17](./codeforces/543/A.cpp) | `dp` `*1800` | Mar/10/2021 13:07 | 
+604 | [B - Planet Lapituletti](https://codeforces.com/contest/1493/problem/B) | [GNU C++17](./codeforces/1493/B.cpp) | `brute force` `implementation` `*1300` | Mar/06/2021 21:49 | 
+603 | [A - Anti-knapsack](https://codeforces.com/contest/1493/problem/A) | [GNU C++17](./codeforces/1493/A.cpp) | `constructive algorithms` `greedy` `*800` | Mar/06/2021 19:46 | 
 602 | [B - Unmerge](https://codeforces.com/contest/1381/problem/B) | [GNU C++17](./codeforces/1381/B.cpp) | `dp` `*1800` | Mar/04/2021 22:21 | 
 601 | [C - Sereja and Brackets](https://codeforces.com/contest/380/problem/C) | [GNU C++17](./codeforces/380/C.cpp) | `data structures` `schedules` `*2000` | Feb/23/2021 21:58 | 
 600 | [C - Maximum width](https://codeforces.com/contest/1492/problem/C) | [GNU C++17](./codeforces/1492/C.cpp) | `data structures` `dp` `greedy` | Feb/23/2021 15:29 | 
