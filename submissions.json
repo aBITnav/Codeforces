@@ -1535,6 +1535,22 @@
     ],
     "timestamp": "Feb/06/2021 19:13"
   },
+  "AC20902342": {
+    "contest_id": "abc195",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc195\\D.cpp",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Shipping Center",
+    "problem_url": "https://atcoder.jp/contests/abc195/tasks/abc195_d",
+    "submission_id": "AC20902342",
+    "submission_url": "https://atcoder.jp/contests/abc195/submissions/20902342",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Mar/13/2021 19:06"
+  },
   "AC8780578": {
     "contest_id": "dp",
     "language": "C++14 (GCC 5.4.1)",
