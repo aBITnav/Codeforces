@@ -1535,6 +1535,22 @@
     ],
     "timestamp": "Feb/06/2021 19:13"
   },
+  "AC20893969": {
+    "contest_id": "abc195",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc195\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Comma",
+    "problem_url": "https://atcoder.jp/contests/abc195/tasks/abc195_c",
+    "submission_id": "AC20893969",
+    "submission_url": "https://atcoder.jp/contests/abc195/submissions/20893969",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Mar/13/2021 18:32"
+  },
   "AC20902342": {
     "contest_id": "abc195",
     "language": "C++ (GCC 9.2.1)",
