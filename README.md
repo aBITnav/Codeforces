@@ -13,8 +13,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-609 | [D - Shipping Center](https://atcoder.jp/contests/abc195/tasks/abc195_d) | [C++ (GCC 9.2.1)](./atcoder/abc195/D.cpp) | `AtCoder` `*400` | Mar/13/2021 19:06 | 
-608 | [C - Comma](https://atcoder.jp/contests/abc195/tasks/abc195_c) | [C++ (GCC 9.2.1)](./atcoder/abc195/C.cpp) | `AtCoder` `*300` | Mar/13/2021 18:32 | 
+610 | [D - Shipping Center](https://atcoder.jp/contests/abc195/tasks/abc195_d) | [C++ (GCC 9.2.1)](./atcoder/abc195/D.cpp) | `AtCoder` `*400` | Mar/13/2021 19:06 | 
+609 | [C - Comma](https://atcoder.jp/contests/abc195/tasks/abc195_c) | [C++ (GCC 9.2.1)](./atcoder/abc195/C.cpp) | `AtCoder` `*300` | Mar/13/2021 18:32 | 
+608 | [B - Many Oranges](https://atcoder.jp/contests/abc195/tasks/abc195_b) | [C++ (GCC 9.2.1)](./atcoder/abc195/B.cpp) | `AtCoder` `*200` | Mar/13/2021 18:15 | 
 607 | [D - Minimum Euler Cycle](https://codeforces.com/contest/1334/problem/D) | [GNU C++17](./codeforces/1334/D.cpp) | `constructive algorithms` `graphs` `greedy` `implementation` `*1800` | Mar/11/2021 22:47 | 
 606 | [C - Primitive Primes](https://codeforces.com/contest/1316/problem/C) | [GNU C++17](./codeforces/1316/C.cpp) | `constructive algorithms` `math` `ternary search` `*1800` | Mar/10/2021 21:59 | 
 605 | [A - Writing Code](https://codeforces.com/contest/543/problem/A) | [GNU C++17](./codeforces/543/A.cpp) | `dp` `*1800` | Mar/10/2021 13:07 | 
