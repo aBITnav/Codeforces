@@ -1663,6 +1663,22 @@
     ],
     "timestamp": "Mar/13/2021 19:06"
   },
+  "AC21331015": {
+    "contest_id": "abc197",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc197\\D.cpp",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Opposite",
+    "problem_url": "https://atcoder.jp/contests/abc197/tasks/abc197_d",
+    "submission_id": "AC21331015",
+    "submission_url": "https://atcoder.jp/contests/abc197/submissions/21331015",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Mar/27/2021 21:30"
+  },
   "AC8780578": {
     "contest_id": "dp",
     "language": "C++14 (GCC 5.4.1)",
