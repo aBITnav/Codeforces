@@ -4772,6 +4772,21 @@
     ],
     "timestamp": "Mar/11/2021 22:47"
   },
+  "CF111689928": {
+    "contest_id": 1505,
+    "language": "GNU C++17",
+    "path": "codeforces\\1505\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Fibonacci Words",
+    "problem_url": "https://codeforces.com/contest/1505/problem/C",
+    "submission_id": "CF111689928",
+    "submission_url": "https://codeforces.com/contest/1505/submission/111689928",
+    "tags": [
+      "implementation"
+    ],
+    "timestamp": "Apr/01/2021 20:46"
+  },
   "CF111710224": {
     "contest_id": 1505,
     "language": "GNU C++17",
