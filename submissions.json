@@ -6514,6 +6514,24 @@
     ],
     "timestamp": "Apr/04/2021 02:27"
   },
+  "CF112520021": {
+    "contest_id": 1512,
+    "language": "GNU C++17",
+    "path": "codeforces\\1512\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Corrupted Array",
+    "problem_url": "https://codeforces.com/contest/1512/problem/D",
+    "submission_id": "CF112520021",
+    "submission_url": "https://codeforces.com/contest/1512/submission/112520021",
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "greedy",
+      "*1200"
+    ],
+    "timestamp": "Apr/10/2021 21:07"
+  },
   "CF112624372": {
     "contest_id": 1512,
     "language": "GNU C++17",
