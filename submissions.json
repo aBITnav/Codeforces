@@ -6514,6 +6514,23 @@
     ],
     "timestamp": "Apr/04/2021 02:27"
   },
+  "CF113494284": {
+    "contest_id": 1514,
+    "language": "GNU C++17",
+    "path": "codeforces\\1514\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Perfectly Imperfect Array",
+    "problem_url": "https://codeforces.com/contest/1514/problem/A",
+    "submission_id": "CF113494284",
+    "submission_url": "https://codeforces.com/contest/1514/submission/113494284",
+    "tags": [
+      "math",
+      "number theory",
+      "*800"
+    ],
+    "timestamp": "Apr/19/2021 19:10"
+  },
   "CF113498633": {
     "contest_id": 1514,
     "language": "GNU C++17",
