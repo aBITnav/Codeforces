@@ -6514,6 +6514,25 @@
     ],
     "timestamp": "Apr/04/2021 02:27"
   },
+  "CF116358423": {
+    "contest_id": 1525,
+    "language": "GNU C++17",
+    "path": "codeforces\\1525\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Armchairs",
+    "problem_url": "https://codeforces.com/contest/1525/problem/D",
+    "submission_id": "CF116358423",
+    "submission_url": "https://codeforces.com/contest/1525/submission/116358423",
+    "tags": [
+      "dp",
+      "flows",
+      "graph matchings",
+      "greedy",
+      "*1800"
+    ],
+    "timestamp": "May/16/2021 14:19"
+  },
   "CF118984017": {
     "contest_id": 1538,
     "language": "GNU C++17",
