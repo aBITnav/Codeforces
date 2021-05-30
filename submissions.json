@@ -1807,6 +1807,22 @@
     ],
     "timestamp": "Mar/27/2021 21:30"
   },
+  "AC23052950": {
+    "contest_id": "abc203",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc203\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Friends and Travel costs",
+    "problem_url": "https://atcoder.jp/contests/abc203/tasks/abc203_c",
+    "submission_id": "AC23052950",
+    "submission_url": "https://atcoder.jp/contests/abc203/submissions/23052950",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "May/30/2021 17:50"
+  },
   "AC23405202": {
     "contest_id": "abc205",
     "language": "C++ (GCC 9.2.1)",
