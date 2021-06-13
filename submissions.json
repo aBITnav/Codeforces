@@ -1807,6 +1807,22 @@
     ],
     "timestamp": "Mar/27/2021 21:30"
   },
+  "AC23423728": {
+    "contest_id": "abc205",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc205\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "POW",
+    "problem_url": "https://atcoder.jp/contests/abc205/tasks/abc205_c",
+    "submission_id": "AC23423728",
+    "submission_url": "https://atcoder.jp/contests/abc205/submissions/23423728",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Jun/13/2021 17:53"
+  },
   "AC23438322": {
     "contest_id": "abc205",
     "language": "C++ (GCC 9.2.1)",
