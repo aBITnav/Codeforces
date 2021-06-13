@@ -1807,6 +1807,22 @@
     ],
     "timestamp": "Mar/27/2021 21:30"
   },
+  "AC23405202": {
+    "contest_id": "abc205",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc205\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "kcal",
+    "problem_url": "https://atcoder.jp/contests/abc205/tasks/abc205_a",
+    "submission_id": "AC23405202",
+    "submission_url": "https://atcoder.jp/contests/abc205/submissions/23405202",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jun/13/2021 17:34"
+  },
   "AC23408521": {
     "contest_id": "abc205",
     "language": "C++ (GCC 9.2.1)",
