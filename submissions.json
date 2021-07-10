@@ -1807,6 +1807,22 @@
     ],
     "timestamp": "Mar/27/2021 21:30"
   },
+  "AC24119480": {
+    "contest_id": "abc209",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc209\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Can you buy them all?",
+    "problem_url": "https://atcoder.jp/contests/abc209/tasks/abc209_b",
+    "submission_id": "AC24119480",
+    "submission_url": "https://atcoder.jp/contests/abc209/submissions/24119480",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jul/10/2021 17:41"
+  },
   "AC24125563": {
     "contest_id": "abc209",
     "language": "C++ (GCC 9.2.1)",
