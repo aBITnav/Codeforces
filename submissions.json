@@ -1807,6 +1807,22 @@
     ],
     "timestamp": "Mar/27/2021 21:30"
   },
+  "AC24670573": {
+    "contest_id": "abc212",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc212\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Min Difference",
+    "problem_url": "https://atcoder.jp/contests/abc212/tasks/abc212_c",
+    "submission_id": "AC24670573",
+    "submission_url": "https://atcoder.jp/contests/abc212/submissions/24670573",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Jul/31/2021 18:04"
+  },
   "AC24674653": {
     "contest_id": "abc212",
     "language": "C++ (GCC 9.2.1)",
