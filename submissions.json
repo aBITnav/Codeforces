@@ -1807,6 +1807,22 @@
     ],
     "timestamp": "Mar/27/2021 21:30"
   },
+  "AC25194452": {
+    "contest_id": "abc215",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc215\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Your First Judge",
+    "problem_url": "https://atcoder.jp/contests/abc215/tasks/abc215_a",
+    "submission_id": "AC25194452",
+    "submission_url": "https://atcoder.jp/contests/abc215/submissions/25194452",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Aug/21/2021 17:31"
+  },
   "AC25201821": {
     "contest_id": "abc215",
     "language": "C++ (GCC 9.2.1)",
