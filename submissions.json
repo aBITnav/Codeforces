@@ -1807,6 +1807,22 @@
     ],
     "timestamp": "Mar/27/2021 21:30"
   },
+  "AC25557657": {
+    "contest_id": "abc217",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc217\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Lexicographic Order",
+    "problem_url": "https://atcoder.jp/contests/abc217/tasks/abc217_a",
+    "submission_id": "AC25557657",
+    "submission_url": "https://atcoder.jp/contests/abc217/submissions/25557657",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Sep/04/2021 17:31"
+  },
   "AC25563413": {
     "contest_id": "abc217",
     "language": "C++ (GCC 9.2.1)",
