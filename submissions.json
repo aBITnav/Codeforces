@@ -1807,6 +1807,22 @@
     ],
     "timestamp": "Mar/27/2021 21:30"
   },
+  "AC26165358": {
+    "contest_id": "abc220",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc220\\F.cpp",
+    "platform": "AtCoder",
+    "problem_index": "F",
+    "problem_name": "Distance Sums 2",
+    "problem_url": "https://atcoder.jp/contests/abc220/tasks/abc220_f",
+    "submission_id": "AC26165358",
+    "submission_url": "https://atcoder.jp/contests/abc220/submissions/26165358",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "Sep/26/2021 19:03"
+  },
   "AC8780578": {
     "contest_id": "dp",
     "language": "C++14 (GCC 5.4.1)",
