@@ -2879,6 +2879,22 @@
     ],
     "timestamp": "Sep/26/2021 19:03"
   },
+  "AC26890614": {
+    "contest_id": "abc225",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc225\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Distinct Strings",
+    "problem_url": "https://atcoder.jp/contests/abc225/tasks/abc225_a",
+    "submission_id": "AC26890614",
+    "submission_url": "https://atcoder.jp/contests/abc225/submissions/26890614",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Oct/30/2021 17:32"
+  },
   "AC26894334": {
     "contest_id": "abc225",
     "language": "C++ (GCC 9.2.1)",
